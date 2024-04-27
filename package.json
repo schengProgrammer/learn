@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/schengProgrammer/learn#readme",
   "devDependencies": {
-    "vuepress": "^1.9.10"
+    "vuepress": "^1.9.10",
+    "vuepress-theme-reco": "^1.6.17"
   }
 }
